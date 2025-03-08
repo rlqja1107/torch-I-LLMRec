@@ -1,3 +1,3 @@
 # Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems  
 
-TBD
+We will upload the code soon.
