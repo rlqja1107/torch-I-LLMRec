@@ -35,7 +35,7 @@ class TrainingArguments(transformers.TrainingArguments):
     tune_language_model: bool = field(default=False)
     tune_mm_projector: bool = field(default=True)
     bf16: bool = field(default=True)
-    num_train_epochs: Optional[float] = 70
+    num_train_epochs: Optional[float] = 8
     model_dtype: str = field(default="torch.bfloat16")
     gradient_checkpointing: bool = field(default=True)
     model_max_length: int = field(
