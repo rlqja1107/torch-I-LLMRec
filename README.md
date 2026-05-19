@@ -1,5 +1,10 @@
 # Token-Efficient Item Representation via Images for LLM Recommender Systems 
 
+![LLMs](https://img.shields.io/badge/Task-Recsys-blue)
+![LLMs](https://img.shields.io/badge/Model-LLM-red)
+
+The official source code for [Token-Efficient Item Representation via Images for LLM Recommender Systems ](https://openreview.net/forum?id=vizM7B7vuW), accepted at [ICLR 2026](https://iclr.cc/).
+
 ## Overview
 <!--![alt text](asset/image.png)-->
 <img src="asset/image.png" width="700"/>
