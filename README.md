@@ -73,9 +73,12 @@ CUDA_VISIBLE_DEVICES=0 bash test.sh {MODEL_OUTPUT_PATH}
 ```
 
 
+## TODO List
 
+- [ ] Upload pretrained models to Hugging Face
 
 
 ## Acknowledgement  
 * [VILA](http://github.com/NVlabs/VILA/tree/main/llava/model/language_model), [LLaVA](https://github.com/haotian-liu/LLaVA): this code is build upon these codes.
 * [SASRec](https://github.com/pmixer/SASRec.pytorch): To extract CF feature, this code is utilized.
+

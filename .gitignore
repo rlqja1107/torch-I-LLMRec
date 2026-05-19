@@ -1,3 +1,8 @@
 dataset/Amazon_18/*
 __pycache__
 output
+I_LLMRec_Pretrained/Art
+I_LLMRec_Pretrained/Grocery
+I_LLMRec_Pretrained
+*.gz
+./*.json

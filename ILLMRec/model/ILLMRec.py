@@ -349,3 +349,10 @@ class ILLMRecLlamaModel(ILLMRecMetaModel, ILLMRecMetaForCausalLM, PreTrainedMode
 
 AutoConfig.register("illmrec_llama", ILLMRecLlamaConfig)
 AutoModel.register(ILLMRecLlamaConfig, ILLMRecLlamaModel)
+
+
+class _LegacyLlavaLlamaConfig(ILLMRecLlamaConfig):
+    model_type = "llava_llama"
+
+
+AutoConfig.register("llava_llama", _LegacyLlavaLlamaConfig)
