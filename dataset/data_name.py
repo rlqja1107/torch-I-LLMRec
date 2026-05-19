@@ -1,0 +1,17 @@
+data_dict = {"Movies": "Movies_and_TV",
+             "Tools": "Tools_and_Home_Improvement",
+             "Sport": "Sports_and_Outdoors",
+             "Office": "Office_Products",
+             "Baby": "Baby",
+             "CD": "CDs_and_Vinyl",
+             "Kindle": "Kindle_Store",
+             "Home": "Home_and_Kitchen",
+             "Clothing": "Clothing_Shoes_and_Jewelry",
+             "Phone": "Cell_Phones_and_Accessories",
+             "Grocery": "Grocery_and_Gourmet_Food",
+             "Art": "Arts_Crafts_and_Sewing",
+             "Video": "Video_Games", 
+             "Toys": "Toys_and_Games",
+             'Beauty': "Beauty",
+             "Electronics": "Electronics"
+             }
